@@ -7,4 +7,7 @@ You can start by hitting the shuffle button to get a quick peek at the cards so 
 
 I could improve this game by adding a betting sytem and some form of money, as well as clean up the colors.  I also debated having all of the interaction on the same htlm element instead having them of scrolling down.
 
+PS
+This was a great learning experance.  I built this organiclly with lots of trial and error.  I'm sure I could have planned it better and made it more dry.  A good leason for next time.
+
 
